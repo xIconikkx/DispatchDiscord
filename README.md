@@ -1,4 +1,4 @@
-![alt text](https://i.imgur.com/iFjPd5K.png)
+![alt text](https://i.imgur.com/0Mmq7P5.png)
 
 1. Open ZIP
 2. Place .dll from FivePD/Plugins into correct folder
